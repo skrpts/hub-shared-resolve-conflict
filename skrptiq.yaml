@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "d8b5c6cf-3dcd-4142-9242-5064e95f1b31"
+name: "resolve-conflict"
+display_name: "Resolve Conflict"
+description: "Identifies conflicting viewpoints in group work and suggests resolution strategies"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-resolve-conflict"
+category: "shared"
+tags:
+  - "shared"
+  - "prompt"
+contents:
+  skills: 0
+  prompts: 1
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
