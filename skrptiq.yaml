@@ -3,7 +3,7 @@ id: "a41a7d44-6003-4b4d-ae86-9fae1bc1057e"
 name: "resolve-conflict"
 display_name: "Resolve Conflict"
 description: "Identifies conflicting viewpoints in group work and suggests resolution strategies"
-version: "1.0.2"
+version: "1.0.3"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -25,3 +25,17 @@ contents:
   documents: 0
   assets: 0
   total: 1
+
+security:
+  status: "pass"
+  scanned_at: "2026-07-16T14:46:56.712Z"
+  scanner_version: "3.3.0"
+  syntactic: "pass"
+  structural: "pass"
+  detected:
+    services: []
+    permissions: []
+    data_handling: []
+  undeclared: []
+  warnings: []
+  report_url: "https://hub.skrptiq.ai/skrpts/resolve-conflict/security"

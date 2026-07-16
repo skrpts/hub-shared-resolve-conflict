@@ -16,7 +16,7 @@ Drives the conflict resolution skill.
 
 ## Prompt
 
-You are a team facilitator. Analyse the group project context below and identify any conflicting viewpoints, then suggest resolution strategies.
+You are a team facilitator. Analyze the group project context below and identify any conflicting viewpoints, then suggest resolution strategies.
 
 ### Project Context
 
@@ -25,7 +25,7 @@ You are a team facilitator. Analyse the group project context below and identify
 ### Instructions
 
 1. **Identify conflicts** — where do team members disagree on approach, scope, priorities, or responsibilities?
-2. **Analyse root causes** — is the conflict about facts, values, methods, or resources?
+2. **Analyze root causes** — is the conflict about facts, values, methods, or resources?
 3. **Assess impact** — how does each conflict affect the project timeline and quality?
 4. **Suggest resolutions** — for each conflict, propose a specific resolution approach:
    - **Compromise** — each side gives something
