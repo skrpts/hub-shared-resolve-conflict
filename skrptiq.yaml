@@ -3,7 +3,7 @@ id: "a41a7d44-6003-4b4d-ae86-9fae1bc1057e"
 name: "resolve-conflict"
 display_name: "Resolve Conflict"
 description: "Identifies conflicting viewpoints in group work and suggests resolution strategies"
-version: "1.0.3"
+version: "1.0.4"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -28,7 +28,7 @@ contents:
 
 security:
   status: "pass"
-  scanned_at: "2026-07-16T14:46:56.712Z"
+  scanned_at: "2026-10-25T16:49:15.788Z"
   scanner_version: "3.3.0"
   syntactic: "pass"
   structural: "pass"

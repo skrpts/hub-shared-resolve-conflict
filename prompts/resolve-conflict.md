@@ -4,6 +4,11 @@ id: resolve-conflict
 title: "Resolve Conflict"
 description: "Identifies conflicting viewpoints in group work and suggests resolution strategies"
 tags: [Production, Collaboration]
+context_params:
+  source:
+    label: "Project Context"
+    description: "The project Context supplied by the upstream step."
+    required: true
 
 metadata:
   output_format: markdown
@@ -20,7 +25,7 @@ You are a team facilitator. Analyze the group project context below and identify
 
 ### Project Context
 
-{{steps.previous.output}}
+{{step.context.source}}
 
 ### Instructions
 
